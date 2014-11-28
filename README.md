@@ -21,6 +21,8 @@ licensed under the MIT and GPL licenses
 ##Dependencies
 This script needs jQuery to work.
 
+##Current version: 0.1 
+
 ## Fast example
 ```html 
 	<div class="ball" asshai="topDownAnimation"></div>
